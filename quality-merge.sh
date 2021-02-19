@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#LENA TESTAR
+
 #SBATCH --cpus-per-task=4
 #SBATCH --mem=5000
 #SBATCH --nice=0
